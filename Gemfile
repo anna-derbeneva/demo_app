@@ -6,6 +6,7 @@ gem 'rails', '~> 5.0.1'
 
 group :development do
   gem 'sqlite3'
+  gem 'listen'
 end
 
 gem 'sass-rails'
